@@ -14,20 +14,12 @@ Follow these steps to load an adlist, block specific domains, and add them as wi
 
 ## 2. Blocking Blocksi
 1. Go to the **Domains** or **Blacklist** section of your adblocker.
-2. Add the following domains individually:
-- `blocksi.net`
-- `block.si`
+2. Click RegEx filter
+3. Add the following domains individually:
+- `(\.|^)blocksi\.net$`
+- `(\.|^)block\.si$`
+4. Then add to Blacklist
 
----
-
-## 3. Add Wildcard Entries
-1. In the same **Blacklist** section:
-- Add `*.blocksi.net` as a wildcard to block all subdomains of `blocksi.net`.
-- Add `*.block.si` as a wildcard to block all subdomains of `block.si`.
-2. Save or apply changes.
-
----
-
-## 4. 
+## 3. 
 1. idk thats all
    
