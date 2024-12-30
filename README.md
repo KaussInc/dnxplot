@@ -7,7 +7,7 @@ Follow these steps to load an adlist, block specific domains, and add them as wi
 ## 1. Load the Adlist
 1. Dive into your hole
 2. Navigate to the **Adlists** section.
-3. Add the following URL as a new adlist: https://raw.githubusercontent.com/KaussInc/dnxplot/refs/heads/main/hosts?token=GHSAT0AAAAAAC4RVYMNB3ISJDSOXSDAXZEUZ3SIWKA
+3. Add the following URL as a new adlist: https://raw.githubusercontent.com/KaussInc/dnxplot/refs/heads/main/hosts
 4. Save or apply changes to load the adlist.
 
 ---
