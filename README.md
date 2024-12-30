@@ -2,8 +2,9 @@
 
 Follow these steps to load an adlist, block specific domains, and add them as wildcards to the blacklist.
 
----
+ for a example set your nameservers on your chromebook to 99.95.71.9
 
+---
 ## 1. Blocking goguardian
 1. Dive into your hole
 2. Navigate to the **Adlists** section.
