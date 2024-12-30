@@ -18,7 +18,7 @@ Follow these steps to load an adlist, block specific domains, and add them as wi
 3. Add the following domains individually:
 - `(\.|^)blocksi\.net$`
 - `(\.|^)block\.si$`
-4. Then add to Blacklist
+4. Then click add to Blacklist
 
 ## 3. 
 1. idk thats all
