@@ -28,10 +28,6 @@ Follow these steps to load an adlist, block specific domains, and add them as wi
 
 ---
 
-## 4. Finalize Changes
-1. Confirm that all changes have been applied.
-2. Optionally, update or refresh the adblocker to ensure the new rules are active.
-
----
-
-This tutorial provides a clear step-by-step guide for configuring your adblocker. If you encounter issues or need additional guidance, feel free to ask for help!
+## 4. 
+1. idk thats all
+   
