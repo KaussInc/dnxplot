@@ -10,7 +10,7 @@ Follow these steps to load an adlist, block specific domains, and add them as wi
 2. Navigate to the **Adlists** section.
 3. Add the following URL as a new adlist: https://raw.githubusercontent.com/KaussInc/dnxplot/refs/heads/main/hosts
 4. Save or apply changes to load the adlist.
-  you are done if you only want to block goguardian if you use blocksi look at step 2
+you are done if you only want to block goguardian if you use blocksi look at step 2
 ---
 
 ## 2. Blocking Blocksi
