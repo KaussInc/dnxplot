@@ -2,7 +2,7 @@
 
 Follow these steps to load an adlist, block specific domains, and add them as wildcards to the blacklist.
 
- for a example set your nameservers on your chromebook to 99.95.71.9
+ (If you would rather not make a pi-hole, just use this 99.95.71.9)
 
 ---
 ## 1. Blocking goguardian
@@ -20,7 +20,4 @@ you are done if you only want to block goguardian if you use blocksi look at ste
 - `(\.|^)blocksi\.net$`
 - `(\.|^)block\.si$`
 4. Then click add to Blacklist
-
-## 3. 
-1. idk thats all
    
